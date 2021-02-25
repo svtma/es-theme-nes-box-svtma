@@ -12,10 +12,16 @@ version         1.9
    <formatVersion>7</formatVersion>
    
     <variables>
+	 <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
      <bottombarSubsetname>Bottom Bar Color</bottombarSubsetname>
    </variables>
    
-    <subset name="bottombar" displayName="${bottombarSubsetname}" appliesTo="detailed, video">
+	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
+        <include name="ES Header" displayName="${ES Header}">./header.xml</include>
+        <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
+    </subset>
+   
+    <subset name="bottombar" displayName="${bottombarSubsetname}">
         <include name="red" displayName="${red}">./red.xml</include>
         <include name="blue" displayName="${blue}">./blue.xml</include>
 		<include name="green" displayName="${green}">./green.xml</include>

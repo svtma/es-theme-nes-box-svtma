@@ -51,9 +51,7 @@ version         1.9
 
    <view name="system">
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/sans-black-cond-italic.ttf</fontPath>
-         <fontSize>0.04275</fontSize>     
-         <pos>0.04 0.948</pos>      
+         <fontPath>./_inc/fonts/sans-black-cond-italic.ttf</fontPath>     
          <textColor>101010</textColor>
          <iconColor>101010</iconColor>
       </helpsystem>
@@ -61,9 +59,7 @@ version         1.9
 
    <view name="detailed,video,basic">
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/sans-black-cond-italic.ttf</fontPath>
-         <fontSize>0.033</fontSize>     
-         <pos>0.0001 0.948</pos>      
+         <fontPath>./_inc/fonts/sans-black-cond-italic.ttf</fontPath>   
          <textColor>101010</textColor>
          <iconColor>101010</iconColor>
       </helpsystem>
@@ -76,7 +72,6 @@ version         1.9
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ca9d5f</secondaryColor>
          <fontPath>./_inc/fonts/sans-black-cond-italic.ttf</fontPath>
-         <fontSize>0.04</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound>./_inc/sounds/Move.wav</scrollSound>
          <zIndex>3</zIndex>                          
