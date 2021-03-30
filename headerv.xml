@@ -14,7 +14,7 @@ version         1.9
    <view name="system">
       <helpsystem name="help">
          <fontSize>0.04275</fontSize>     
-         <pos>0.03 0.948</pos>      
+         <pos>0.05 0.948</pos>      
       </helpsystem>
 	  <image name="background_icon" extra="true">
          <origin>0 0</origin>
