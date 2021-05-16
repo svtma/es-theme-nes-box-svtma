@@ -29,13 +29,7 @@ version         1.9
          <fontSize>0.030</fontSize>     
          <pos>0.0001 0.948</pos>      
       </helpsystem>
-   </view>  
-
-   <view name="basic,detailed,video">
-      <textlist name="gamelist">      
-         <fontSize>0.045</fontSize>                        
-      </textlist>
-   </view> 
+   </view>
 
   
 </theme>
