@@ -119,6 +119,7 @@
          <zIndex>2</zIndex>         
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
+		 <effect>none</effect>
       </video>             
    </view>
    
